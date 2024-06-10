@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\bin\Debug\net8.0\Identical or not.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\bin\Debug\net8.0\Identical or not.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\bin\Debug\net8.0\Identical or not.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\bin\Debug\net8.0\Identical or not.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\bin\Debug\net8.0\Identical or not.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\refint\Identical or not.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\Identical or not.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Check if two binary trees are identical or not – Iterative and Recursive\obj\Debug\net8.0\ref\Identical or not.dll

@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\bin\Debug\net8.0\Rubronegra.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\bin\Debug\net8.0\Rubronegra.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\bin\Debug\net8.0\Rubronegra.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\bin\Debug\net8.0\Rubronegra.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\bin\Debug\net8.0\Rubronegra.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\refint\Rubronegra.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\Rubronegra.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Red-Black Tree\obj\Debug\net8.0\ref\Rubronegra.dll

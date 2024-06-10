@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\bin\Debug\net8.0\Postorder Traversal.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\bin\Debug\net8.0\Postorder Traversal.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\bin\Debug\net8.0\Postorder Traversal.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\bin\Debug\net8.0\Postorder Traversal.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\bin\Debug\net8.0\Postorder Traversal.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\refint\Postorder Traversal.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\Postorder Traversal.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Postorder Traversal - Depth-First Search\obj\Debug\net8.0\ref\Postorder Traversal.dll

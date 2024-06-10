@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\bin\Debug\net8.0\Height BST.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\bin\Debug\net8.0\Height BST.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\bin\Debug\net8.0\Height BST.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\bin\Debug\net8.0\Height BST.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\bin\Debug\net8.0\Height BST.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\refint\Height BST.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\Height BST.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Calculate the height of a binary tree – Iterative and Recursive\obj\Debug\net8.0\ref\Height BST.dll

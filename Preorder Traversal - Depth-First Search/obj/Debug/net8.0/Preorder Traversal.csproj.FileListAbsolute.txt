@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\bin\Debug\net8.0\Preorder Traversal.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\bin\Debug\net8.0\Preorder Traversal.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\bin\Debug\net8.0\Preorder Traversal.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\bin\Debug\net8.0\Preorder Traversal.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\bin\Debug\net8.0\Preorder Traversal.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\refint\Preorder Traversal.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\Preorder Traversal.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Binary Tree\Preorder Traversal - Depth-First Search\obj\Debug\net8.0\ref\Preorder Traversal.dll
